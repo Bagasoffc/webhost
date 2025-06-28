@@ -14,7 +14,7 @@ echo "[2/5] Siapkan direktori /var/www/$DOMAIN ..."
 mkdir -p /var/www/$DOMAIN
 
 echo "[3/5] Ambil HTML dari GitHub..."
-wget -O /var/www/$DOMAIN/index.html https://raw.githubusercontent.com/agasidp/webhost/main/index.html
+wget -O /var/www/$DOMAIN/index.html https://raw.githubusercontent.com/Bagasoffc/webhost/main/index.html
 
 chown -R www-data:www-data /var/www/$DOMAIN
 chmod -R 755 /var/www/$DOMAIN
