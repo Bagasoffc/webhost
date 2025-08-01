@@ -29,4 +29,4 @@ bash host-html.sh agasoffc.my.id
 
 ## Author
 
-Agas x ChatGPT
+Agas
